@@ -1,7 +1,7 @@
 {
   "name": "@pipeworx/mcp-launchdarkly",
-  "version": "0.2.1",
-  "description": "LaunchDarkly MCP Pack — wraps the LaunchDarkly REST API v2 (https://app.launchdarkly.com/api/v2).",
+  "version": "0.2.2",
+  "description": "Unofficial LaunchDarkly MCP Pack — wraps the LaunchDarkly REST API v2 (https://app.launchdarkly.com/api/v2).",
   "type": "module",
   "main": "lib/index.js",
   "exports": {
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "launchdarkly",
     "gatewaySlug": "launchdarkly",
-    "sourceHash": "v1-c49fbb0faa64a1bfc88184dddebbd11ab7c10240e02e29df13e4478aba13a15c",
-    "sourceCommit": "236b0a46d91f343fe094da9f499c378e88f78312"
+    "sourceHash": "v1-99f7a15a894434d7b2ff484765a41790aa84fe0f4280b1b432863f64f90587fc",
+    "sourceCommit": "874331b0c46b151f9264bd14840631427a7721c1"
   }
 }
